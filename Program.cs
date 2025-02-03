@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using SoccerPlayerAPI.Data;
+using SoccerPlayerAPI.Repositories;
+using SoccerPlayerAPI.Repositories.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("AZURE_CONNECTION_STRING")));
+
+builder.Services.AddScoped<ISoccerPlayerRepository, SoccerPlayerRepository>();
 
 var app = builder.Build();
 
