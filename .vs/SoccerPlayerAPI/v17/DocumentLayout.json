@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\.NET\\SoccerPlayerAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\.NET\\SoccerPlayerAPI\\Migrations\\20250203161926_Fixed ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250203161926_Fixed ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|c:\\projects\\.net\\soccerplayerapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|c:\\projects\\.net\\soccerplayerapi\\migrations\\20250203161652_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|solutionrelative:migrations\\20250203161652_secondmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|c:\\projects\\.net\\soccerplayerapi\\migrations\\20250203161306_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|solutionrelative:migrations\\20250203161306_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|c:\\projects\\.net\\soccerplayerapi\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|solutionrelative:migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|c:\\projects\\.net\\soccerplayerapi\\models\\soccerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|solutionrelative:models\\soccerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|c:\\projects\\.net\\soccerplayerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|c:\\projects\\.net\\soccerplayerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F93377F0-A148-49C7-A45A-0343F15319C2}|SoccerPlayerAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250203161926_Fixed ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Migrations\\20250203161926_Fixed ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250203161926_Fixed ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Migrations\\20250203161926_Fixed ApplicationDbContext.cs",
+              "RelativeToolTip": "Migrations\\20250203161926_Fixed ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:19:26.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250203161652_SecondMigration.cs",
+              "DocumentMoniker": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Migrations\\20250203161652_SecondMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250203161652_SecondMigration.cs",
+              "ToolTip": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Migrations\\20250203161652_SecondMigration.cs",
+              "RelativeToolTip": "Migrations\\20250203161652_SecondMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:16:52.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:15:44.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250203161306_InitalCreate.cs",
+              "DocumentMoniker": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Migrations\\20250203161306_InitalCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250203161306_InitalCreate.cs",
+              "ToolTip": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Migrations\\20250203161306_InitalCreate.cs",
+              "RelativeToolTip": "Migrations\\20250203161306_InitalCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T16:13:07.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoccerPlayer.cs",
+              "DocumentMoniker": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Models\\SoccerPlayer.cs",
+              "RelativeDocumentMoniker": "Models\\SoccerPlayer.cs",
+              "ToolTip": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Models\\SoccerPlayer.cs",
+              "RelativeToolTip": "Models\\SoccerPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:57:25.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:55:49.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\.NET\\SoccerPlayerAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T15:54:56.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\.NET\\SoccerPlayerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\.NET\\SoccerPlayerAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T15:32:55.691Z"
             }
           ]
         },
